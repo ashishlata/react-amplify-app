@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello From Amplify</h1>
+        <h1>This is testingamplify app</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
